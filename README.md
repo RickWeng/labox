@@ -1,2 +1,2 @@
-# labox
-LABOX IOS App
+# LABOX
+IOS App
